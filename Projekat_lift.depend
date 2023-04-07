@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1675248065 source:c:\users\atlanta\desktop\lift_projekat\projekat_lift\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"tipovi_podataka.h"
+	"classic.h"
+	"admin.h"
+	"korisnik.h"
+
+1674048166 source:e:\lift_projekat\projekat_lift\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"tipovi_podataka.h"
+	"classic.h"
+	"admin.h"
+	"korisnik.h"
+
+1673959655 e:\lift_projekat\projekat_lift\tipovi_podataka.h
+
+1673959793 e:\lift_projekat\projekat_lift\classic.h
+
+1673959916 e:\lift_projekat\projekat_lift\admin.h
+
+1674062462 e:\lift_projekat\projekat_lift\korisnik.h
+
+1674220149 source:f:\lift_projekat\projekat_lift\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"tipovi_podataka.h"
+	"classic.h"
+	"admin.h"
+	"korisnik.h"
+
+1673959655 f:\lift_projekat\projekat_lift\tipovi_podataka.h
+
+1673959793 f:\lift_projekat\projekat_lift\classic.h
+
+1674219903 f:\lift_projekat\projekat_lift\admin.h
+
+1674220143 f:\lift_projekat\projekat_lift\korisnik.h
+
+1673959655 c:\users\atlanta\desktop\lift_projekat\projekat_lift\tipovi_podataka.h
+
+1673959793 c:\users\atlanta\desktop\lift_projekat\projekat_lift\classic.h
+
+1674219903 c:\users\atlanta\desktop\lift_projekat\projekat_lift\admin.h
+
+1675249354 c:\users\atlanta\desktop\lift_projekat\projekat_lift\korisnik.h
+
